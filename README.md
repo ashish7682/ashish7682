@@ -1,124 +1,68 @@
+<h1 align="center">Hi, I'm Ashish Kumar Sahoo 👋</h1>
+<h3 align="center">Data Engineer | Azure Data Enginner | PySpark | ETL/ELT Pipelines</h3>
 
-# Hi, I'm Ashish Kumar Sahoo 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashishsahoo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ashish.kumar.sahoo.data@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
-### Data Engineer | Python | SQL | PySpark | Microsoft Azure
-
-<a href="https://github.com/">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</a>
-
-I'm a Data Engineer interested in building reliable data pipelines, transforming data, and working with modern cloud and big data technologies.
+I'm a Data Engineer who builds reliable, scalable data pipelines on Azure — from ingestion and transformation to validation and orchestration.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+**Languages:** `Python` `Java` `Bash` `SQL`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,bash" alt="Python Java Bash"/>
-</p>
+**Big Data & Processing:** `Apache Spark` `PySpark` `Delta Lake`
 
-### 🗄️ Databases & Data Warehousing
+**Azure:** `Data Factory` `Databricks` `Data Lake Storage` `Synapse Analytics` `Event Hubs` `Functions` `Azure SQL Database`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,azure" alt="PostgreSQL MySQL Azure"/>
-</p>
+**Orchestration & DevOps:** `Apache Airflow` `Git` `GitHub Actions` `Azure DevOps` `Docker` `Linux`
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure SQL Database](https://img.shields.io/badge/Azure_SQL_Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Star Schema](https://img.shields.io/badge/Star_Schema-4479A1?style=for-the-badge)
-![Snowflake Schema](https://img.shields.io/badge/Snowflake_Schema-29B5E8?style=for-the-badge)
-
-### ⚡ Big Data & Data Processing
+**Data Modeling & BI:** `Star Schema` `Snowflake Schema` `Power BI` `Tableau`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spark,python" alt="Apache Spark Python"/>
+  <img src="https://skillicons.dev/icons?i=python,java,bash,postgres,mysql,azure,spark,airflow,git,github,docker,linux" alt="Tech stack icons"/>
 </p>
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge)
 
-### ☁️ Microsoft Azure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure"/>
-</p>
-
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure Data Lake Storage](https://img.shields.io/badge/Azure_Data_Lake_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Event Hubs](https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-
-### 🔄 ETL & Workflow Orchestration
-
-<p>
-  <img src="https://skillicons.dev/icons?i=airflow" alt="Apache Airflow"/>
-</p>
-
-![ETL](https://img.shields.io/badge/ETL%2FELT-FF6F00?style=for-the-badge)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Data Validation](https://img.shields.io/badge/Data_Validation-2E8B57?style=for-the-badge)
-
-### 🐳 DevOps & Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,azure,docker,linux" alt="Git GitHub Azure Docker Linux"/>
-</p>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📊 Data Visualization & Analytics
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-</p>
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-## 📂 Projects
-
-- **PySpark Data Engineering:** DataFrame creation, filtering, sorting, grouping, and aggregation.
-- **ETL Pipeline Development:** Data extraction, transformation, validation, and loading.
-- **SQL Practice:** Data analysis, joins, window functions, and query optimization.
-
----
 
 ## 📚 Currently Learning
 
-- Advanced PySpark and Apache Spark
-- Azure Databricks and Delta Lake
-- Azure Data Factory
-- Advanced SQL
-- Data Warehousing
-- Apache Airflow
+- Advanced Spark performance tuning & optimization
+- Azure Synapse Analytics at production scale
+- Data warehouse design patterns
 
 ---
 
 ## 🎯 Career Goal
 
-To become a skilled Azure Data Engineer and build scalable, reliable, and high-quality data pipelines.
+To grow as an Azure Data Engineer, building scalable and high-quality data pipelines that power reliable analytics.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ashish7682">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/ashish-kumar-sahoo-tech/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
